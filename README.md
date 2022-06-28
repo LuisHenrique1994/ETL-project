@@ -1,2 +1,2 @@
-# team-2-project
-Group project repository for team 2
+# ETL Project team-2
+# ETL Group project repository for team 2
