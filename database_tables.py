@@ -1,7 +1,7 @@
 import psycopg2
 from psycopg2.extensions import AsIs
 import csv 
-from cleansing import *
+from normalisation_test import *
 
 # Postgres connection 
 connection = psycopg2.connect(
